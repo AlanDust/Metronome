@@ -1,24 +1,14 @@
-# README
+Metronome
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first attempt at a basic metronome.  
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Technologies utilized:
+Ruby 2.4.5
+Rails 5.2.1
+Javascript
+React
+Make_It_So gem
+rspec
+jasmine
+postgresql
