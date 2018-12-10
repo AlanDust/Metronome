@@ -1,0 +1,23 @@
+.metronome {
+  text-align: center;
+  max-width: 90%;
+  padding: 30px;
+}
+
+.beats-per-minute input {
+  width: 100%;
+  margin: 2rem;
+}
+.metronome button {
+  background: black;
+  padding: 2rem;
+  border: 1px solid white;
+  border-radius: 5%;
+  width: 20rem;
+  color: white;
+  font-size: 6rem;
+}
+
+.beats-per-minute {
+  font-size: 6rem;
+}
